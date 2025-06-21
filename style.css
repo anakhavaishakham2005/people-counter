@@ -1,0 +1,21 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #f6cbcb, #94c5fc);
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+
+.box{
+    background-color: whitesmoke;
+    border: 2px solid black;
+    border-radius: 20px;    
+    padding: 20px;
+    margin: 20px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
